@@ -1,7 +1,7 @@
 {
   "name": "umc",
   "version": "1.0.0",
-  "description": "",
+  "description": "umc ci/cd",
   "main": "index.js",
   "type": "module",
   "scripts": {
