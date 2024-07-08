@@ -18,7 +18,7 @@ paths:
                 example: 2000
               message:
                 type: string
-                example: "success!"
+                example: "Success!"
               data:
                 type: string
                 example: "루트 페이지!"
